@@ -2,8 +2,8 @@
 
 ## Updated Copyright
 Static list of site with updated Copyright Notice
-- [https://twitter.com/home] / Jan 1
-- [https://about.twitter.com/en] / Jan 1
+- (https://twitter.com/home)[https://twitter.com/home] / Jan 1
+- (https://about.twitter.com/en)[https://about.twitter.com/en] / Jan 1
 - [https://about.twitter.com/en/bad_link] / Jan 1
 - [https://loandepotwebpay.secureconduit.net/login] / Jan 3
 - [https://www.sage.com/en-us/] / Jan 4
