@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects
 
-1. Copyright Monitor
+1. [Copyright Monitor](/cm)
 
 ### Markdown
 
